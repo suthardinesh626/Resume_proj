@@ -99,3 +99,17 @@ body {
     margin-right: 3px; }
   .details .skills__item .right input:checked + label {
     background: #79A9CE; }
+
+
+.btn-primary{
+  cursor: pointer;
+  padding: 1rem 2rem;
+  margin: 1rem 0;
+  background: #6AB9BB;
+  border-radius: 2rem;
+  border: none;
+}
+.btn-primary:hover{
+  background:#79A9CE;
+  transition: 0.5;
+}
